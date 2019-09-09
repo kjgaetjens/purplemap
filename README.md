@@ -28,7 +28,7 @@ Purple's core functionality, the use of nearby location data to determine a scor
 
 * HTML
 * Sass
-* Javascript
+* JavaScript
 * [Google Maps API](https://cloud.google.com/maps-platform/places/)
 * Firebase Cloud Firestore (NoSQL database)
 
@@ -39,7 +39,7 @@ Launch
 Purple can be accessed at the following url: [http://purplemap.surge.sh](http://purplemap.surge.sh)
 
 
-Authors
+Team
 ------
 
 * [Kelsey Gaetjens](https://github.com/kjgaetjens/)
