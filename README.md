@@ -9,8 +9,8 @@ At Purple, we believe every person should be able to live by the places that are
 
 [![Watch the video](readmeImages/purplevimeo.jpg)](https://vimeo.com/357981076)
 <a href="https://vimeo.com/357981076" target="_blank"><img src="readmeImages/purplevimeo.jpg"/></a>
-
 <iframe src="https://player.vimeo.com/video/357981076" width="480" height="280" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 Concept 
 ------ 
